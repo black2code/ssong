@@ -6,5 +6,5 @@ public class Food {
     private String description;
     private Long price;
     private String cookingTime;
-    private String type;  // 메인, 사이드, 음료
+    private String type;  // 메인, 사이드, 음료 등
 }
